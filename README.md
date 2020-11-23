@@ -4,5 +4,6 @@ Clone the project and start developing your ideal Spark App!
 
 This project was built using IntelliJ IDEA
 
+bONJOUR VOICI le tp 1 cordialement Samimi Alexandre
 
 ==> Just import the project using IntelliJ (or re-build it through the sbt shell) and you're ready to go!
